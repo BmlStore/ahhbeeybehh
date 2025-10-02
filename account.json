@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Notdevgwmah",
+    "password": "10009",
+    "role": "admin"
+  },
+  {
+    "username": "vipuser",
+    "password": "vippass",
+    "role": "vip"
+  },
+  {
+    "username": "owner1",
+    "password": "ownerpass",
+    "role": "owner"
+  },
+  {
+    "username": "reseller1",
+    "password": "resellerpass",
+    "role": "reseller"
+  },
+  {
+    "username": "cuki",
+    "password": "cuki123",
+    "role": "member"
+  },
+  {
+    "username": "Danzvorever",
+    "password": "DanzvoreverYsh12",
+    "role": "vip",
+    "expiry": "permanent",
+    "createdBy": "Notdevgwmah",
+    "createdAt": 1757763426194
+  }
+]
